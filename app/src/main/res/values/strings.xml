@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HigherOrLower</string>
+    <string name="TextView">I am Thinking of a Number Between 1 to 20</string>
+    <string name="TextView1">Can you Guess It?</string>
+    <string name="Guess">Guess</string>
+    <string name="Reset">Reset</string>
+    <string name="guessbutton">usedforguessbutton</string>
+    <string name="resetbutton">usedforresetbutton</string>
+    <string name="Button">Guess</string>
+</resources>
